@@ -24,7 +24,7 @@ In general, I made this asset when I was porting my Unity game (Recycling: 2048)
 
 In case you like this free asset, and want to support me, check my buymeacoffee: https://buymeacoffee.com/thepolarcitizen
 
-And if you want to contact me write an email: gleb@glebthepolarcitizen.com
+And if you want to contact me, write an email: gleb@glebthepolarcitizen.com
 
 ### Additional legal notes:
 This is the GitHub version of this tool, which is distributed under MIT license. There is another source, Unity Asset Store version, that has another license (Unity Asset Store EULA): https://assetstore.unity.com/packages/slug/321835.
