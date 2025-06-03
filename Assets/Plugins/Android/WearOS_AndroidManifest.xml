@@ -14,8 +14,8 @@
             android:value="true" />
 
         <activity android:name="com.unity3d.player.UnityPlayerActivity"
-                android:theme="@style/GlebFixRightSwipe"> <!-- Wear OS only -->
-                  <!-- android:theme="@style/UnityThemeSelector"> --> <!-- Smartphones only -->
+                android:theme="@style/GlebFixRightSwipe"> <!-- Wear OS only --> <!-- Fixing right swipe! If you don't need it, delete this string and uncomment one below (you need to return style from my "@style/GlebFixRightSwipe" to the standard UnityThemeSelector) -->
+                  <!-- android:theme="@style/UnityThemeSelector"> --> <!-- For Smartphones, and if you want your Wear OS app to close on right swipe -->
                   
 
             <intent-filter>
